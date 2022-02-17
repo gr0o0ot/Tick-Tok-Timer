@@ -4,7 +4,7 @@ const minselement1 = document.getElementById('mins');
 const secondselement1 = document.getElementById('seconds');
 
 // we can initialize any date here for the countdown
-const newyears = '21 jan 2022';
+const newyears = '21 jan 2022'; // we need to give the date in the format 'dd mmm yyyy'
 
 // finding and printing the number of days left for new year
 
